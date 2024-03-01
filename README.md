@@ -1,2 +1,2 @@
 # helloverse
-This is a hello world application universe
+This is a hello world applications universe
